@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ltwoldegebriel_cmd.nineveh",
+      "sha256_cert_fingerprints": [
+        "A3:1B:AA:21:15:D3:34:89:44:9A:3F:AD:90:46:E8:1C:B6:36:27:15:DD:12:2A:E7:51:57:7F:E2:A8:65:54:89"
+      ]
+    }
+  }
+]
