@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "io.github.ltwoldegebriel_cmd.nineveh",
       "sha256_cert_fingerprints": [
-        "A3:1B:AA:21:15:D3:34:89:44:9A:3F:AD:90:46:E8:1C:B6:36:27:15:DD:12:2A:E7:51:57:7F:E2:A8:65:54:89"
+        "A3:1B:AA:21:15:D3:34:89:44:9A:3F:AD:90:46:E8:1C:B6:36:27:15:DD:12:2A:E7:51:57:7F:E2:A8:65:54:89",
+        "53:EF:19:73:D4:1C:51:D0:06:31:79:0D:E1:E5:01:3E:D9:09:51:2A:88:5B:B8:77:F5:F6:43:F5:BA:65:C5:DF"
       ]
     }
   }
